@@ -25,7 +25,7 @@
 <div style='border:3px solid lightgray;max-width:724px;'>
 <svg xmlns='http://www.w3.org/2000/svg' style='font-size:initial;' class="pikchr" viewBox="0 0 724.32 1077.12" data-pikchr-date="20250321215505">
 <path d="M362.16,102.96L650.16,102.96L650.16,2.16L362.16,2.16Z"  style="fill:rgb(255,255,224);stroke-width:2.16;stroke:rgb(0,0,0);" />
-<text x="506.16" y="52.56" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Учебная группа ИСТ-121</text>
+<text x="506.16" y="52.56" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Учебная группа Б22-525</text>
 <polygon points="506.16,174.96 501.84,163.44 510.48,163.44" style="fill:rgb(0,0,0)"/>
 <path d="M506.16,102.96L506.16,169.2"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
 <path d="M398.16,246.96L614.16,246.96L614.16,174.96L398.16,174.96Z"  style="fill:rgb(173,216,230);stroke-width:2.16;stroke:rgb(0,0,0);" />
@@ -69,7 +69,7 @@
 <text x="506.16" y="1046.16" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Егорова С.В.</text>
 </svg>
 </div>
-<pre class='hidden'>box width 2in height 0.7in "Учебная группа ИСТ-121" fill lightyellow
+<pre class='hidden'>box width 2in height 0.7in "Учебная группа Б22-525" fill lightyellow
 arrow down from last box.s
 
 # Староста
