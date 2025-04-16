@@ -20,7 +20,7 @@
 <meta charset="utf-8">
 </head>
 <body>
-<h1>File group_hierarchy.pikchr</h1>
+<h1>File group.pikchr</h1>
 <div id="svg-1" onclick="toggleHidden('svg-1')">
 <div style='border:3px solid lightgray;max-width:724px;'>
 <svg xmlns='http://www.w3.org/2000/svg' style='font-size:initial;' class="pikchr" viewBox="0 0 724.32 1077.12" data-pikchr-date="20250321215505">
