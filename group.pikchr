@@ -1,4 +1,4 @@
-box width 2in height 0.7in "Учебная группа ИСТ-121" fill lightyellow
+box width 2in height 0.7in "Учебная группа Б22-525" fill lightyellow
 arrow down from last box.s
 
 # Староста
