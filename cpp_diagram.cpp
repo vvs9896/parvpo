@@ -2,13 +2,11 @@
 #include <fstream>
 #include <string>
 
-// Подключим заголовочный файл pikchr
 extern "C" {
     #include "pikchr.h"
 }
 
 int main() {
-    // Текстовое описание диаграммы
     std::string pikchr_code = R"(
     box width 2in height 0.7in "Учебная группа Б22-525" fill lightyellow
     arrow down from last box.s
@@ -49,28 +47,24 @@ int main() {
     box width 1in height 0.4in "Егорова С.В." fill lightcyan
     )";
 
-    // Вызов функции pikchr для генерации SVG
     int width = 0;
     int height = 0;
     unsigned int flags = 0;
     
-    // Исправленный вызов с правильными типами аргументов
     char *svg = pikchr(pikchr_code.c_str(), nullptr, flags, &width, &height);
 
     if (svg) {
-        // Запись SVG в файл
         std::ofstream outfile("cpp_generated.svg");
         outfile << svg;
         outfile.close();
         
-        std::cout << "SVG успешно сгенерирован и сохранен в cpp_generated.svg" << std::endl;
+        std::cout << "[+] SVG успешно сгенерирован и сохранен в cpp_generated.svg" << std::endl;
         std::cout << "Ширина: " << width << ", Высота: " << height << std::endl;
         
-        // Освобождение памяти
         free(svg);
         return 0;
     } else {
-        std::cerr << "Ошибка при генерации SVG" << std::endl;
+        std::cerr << "[!] Ошибка при генерации SVG" << std::endl;
         return 1;
     }
 }
