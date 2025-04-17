@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<title>PIKCHR Test</title>
+<style>
+  .hidden {
+     position: absolute !important;
+     opacity: 0 !important;
+     pointer-events: none !important;
+     display: none !important;
+  }
+</style>
+<script>
+  function toggleHidden(id){
+    for(var c of document.getElementById(id).children){
+      c.classList.toggle('hidden');
+    }
+  }
+</script>
+<meta charset="utf-8">
+</head>
+<body>
+<h1>File group.pikchr</h1>
+<div id="svg-1" onclick="toggleHidden('svg-1')">
+<div style='border:3px solid lightgray;max-width:724px;'>
+<svg xmlns='http://www.w3.org/2000/svg' style='font-size:initial;' class="pikchr" viewBox="0 0 724.32 1077.12" data-pikchr-date="20250321215505">
+<path d="M362.16,102.96L650.16,102.96L650.16,2.16L362.16,2.16Z"  style="fill:rgb(255,255,224);stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="506.16" y="52.56" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Учебная группа Б22-525</text>
+<polygon points="506.16,174.96 501.84,163.44 510.48,163.44" style="fill:rgb(0,0,0)"/>
+<path d="M506.16,102.96L506.16,169.2"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M398.16,246.96L614.16,246.96L614.16,174.96L398.16,174.96Z"  style="fill:rgb(173,216,230);stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="506.16" y="210.96" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">СтаростаnИванов А.В.</text>
+<polygon points="506.16,318.96 501.84,307.44 510.48,307.44" style="fill:rgb(0,0,0)"/>
+<path d="M506.16,246.96L506.16,313.2"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M506.16,318.96L506.16,390.96"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M506.16,390.96L722.16,390.96"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M506.16,390.96L290.16,390.96"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<polygon points="506.16,462.96 501.84,451.44 510.48,451.44" style="fill:rgb(0,0,0)"/>
+<path d="M506.16,390.96L506.16,457.2"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M419.76,534.96L592.56,534.96L592.56,462.96L419.76,462.96Z"  style="fill:rgb(144,238,144);stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="506.16" y="498.96" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Подгруппа 1nСидоров П.А.</text>
+<polygon points="290.16,462.96 285.84,451.44 294.48,451.44" style="fill:rgb(0,0,0)"/>
+<path d="M290.16,390.96L290.16,457.2"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M203.76,534.96L376.56,534.96L376.56,462.96L203.76,462.96Z"  style="fill:rgb(144,238,144);stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="290.16" y="498.96" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Подгруппа 2nПетров В.С.</text>
+<polygon points="74.16,570.96 69.84,559.44 78.48,559.44" style="fill:rgb(0,0,0)"/>
+<path d="M74.16,498.96L74.16,565.2"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M2.16,628.56L146.16,628.56L146.16,570.96L2.16,570.96Z"  style="fill:rgb(224,255,255);stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="74.16" y="599.76" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Алексеев И.К.</text>
+<polygon points="74.16,700.56 69.84,689.04 78.48,689.04" style="fill:rgb(0,0,0)"/>
+<path d="M74.16,628.56L74.16,694.8"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M2.16,758.16L146.16,758.16L146.16,700.56L2.16,700.56Z"  style="fill:rgb(224,255,255);stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="74.16" y="729.36" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Борисов Д.М.</text>
+<polygon points="74.16,830.16 69.84,818.64 78.48,818.64" style="fill:rgb(0,0,0)"/>
+<path d="M74.16,758.16L74.16,824.4"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M2.16,887.76L146.16,887.76L146.16,830.16L2.16,830.16Z"  style="fill:rgb(224,255,255);stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="74.16" y="858.96" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Волкова Е.А.</text>
+<polygon points="506.16,758.16 501.84,746.64 510.48,746.64" style="fill:rgb(0,0,0)"/>
+<path d="M506.16,686.16L506.16,752.4"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M434.16,815.76L578.16,815.76L578.16,758.16L434.16,758.16Z"  style="fill:rgb(224,255,255);stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="506.16" y="786.96" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Григорьев К.Л.</text>
+<polygon points="506.16,887.76 501.84,876.24 510.48,876.24" style="fill:rgb(0,0,0)"/>
+<path d="M506.16,815.76L506.16,882"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M434.16,945.36L578.16,945.36L578.16,887.76L434.16,887.76Z"  style="fill:rgb(224,255,255);stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="506.16" y="916.56" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Дмитриев О.П.</text>
+<polygon points="506.16,1017.36 501.84,1005.84 510.48,1005.84" style="fill:rgb(0,0,0)"/>
+<path d="M506.16,945.36L506.16,1011.6"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M434.16,1074.96L578.16,1074.96L578.16,1017.36L434.16,1017.36Z"  style="fill:rgb(224,255,255);stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="506.16" y="1046.16" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Егорова С.В.</text>
+</svg>
+</div>
+<pre class='hidden'>box width 2in height 0.7in "Учебная группа Б22-525" fill lightyellow
+arrow down from last box.s
+
+# Староста
+box width 1.5in height 0.5in "Староста\nИванов А.В." fill lightblue
+arrow down from last box.s
+
+# Подгруппы
+line down 0.5in from last arrow.end
+line right 1.5in from last line.end
+line left 1.5in from last line.start
+
+# Подгруппа 1
+arrow down from (last line.start.x, last line.start.y)
+box width 1.2in height 0.5in "Подгруппа 1\nСидоров П.А." fill lightgreen
+
+# Подгруппа 2
+arrow down from (last line.end.x, last line.end.y)
+box width 1.2in height 0.5in "Подгруппа 2\nПетров В.С." fill lightgreen
+
+# Студенты подгруппы 1
+move to (last box.x - 1.5in, last box.y)
+arrow down
+box width 1in height 0.4in "Алексеев И.К." fill lightcyan
+arrow down from last box.s
+box width 1in height 0.4in "Борисов Д.М." fill lightcyan
+arrow down from last box.s
+box width 1in height 0.4in "Волкова Е.А." fill lightcyan
+
+# Студенты подгруппы 2
+move to (last box.x + 3in, last box.y + 1.2in)
+arrow down
+box width 1in height 0.4in "Григорьев К.Л." fill lightcyan
+arrow down from last box.s
+box width 1in height 0.4in "Дмитриев О.П." fill lightcyan
+arrow down from last box.s
+box width 1in height 0.4in "Егорова С.В." fill lightcyan</pre>
+</div>
+</body></html>
