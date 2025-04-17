@@ -1,44 +1,45 @@
-<svg xmlns='http://www.w3.org/2000/svg' style='font-size:initial;' class="pikchr" viewBox="0 0 679.738 853.92" data-pikchr-date="20250321215505">
-<path d="M198.749,102.96L486.749,102.96L486.749,2.16L198.749,2.16Z"  style="fill:rgb(255,255,224);stroke-width:2.16;stroke:rgb(0,0,0);" />
-<text x="342.749" y="52.56" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Учебная группа Б22-525</text>
-<polygon points="342.749,174.96 338.429,163.44 347.069,163.44" style="fill:rgb(0,0,0)"/>
-<path d="M342.749,102.96L342.749,169.2"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
-<path d="M234.749,246.96L450.749,246.96L450.749,174.96L234.749,174.96Z"  style="fill:rgb(173,216,230);stroke-width:2.16;stroke:rgb(0,0,0);" />
-<text x="342.749" y="210.96" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">СтаростаnИванов А.В.</text>
-<polygon points="342.749,318.96 338.429,307.44 347.069,307.44" style="fill:rgb(0,0,0)"/>
-<path d="M342.749,246.96L342.749,313.2"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
-<path d="M342.749,318.96L126.749,318.96"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
-<path d="M342.749,318.96L558.749,318.96"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
-<polygon points="126.749,390.96 122.429,379.44 131.069,379.44" style="fill:rgb(0,0,0)"/>
-<path d="M126.749,318.96L126.749,385.2"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
-<path d="M40.3488,462.96L213.149,462.96L213.149,390.96L40.3488,390.96Z"  style="fill:rgb(144,238,144);stroke-width:2.16;stroke:rgb(0,0,0);" />
-<text x="126.749" y="426.96" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Подгруппа 1nСидоров П.А.</text>
-<polygon points="558.749,390.96 554.429,379.44 563.069,379.44" style="fill:rgb(0,0,0)"/>
-<path d="M558.749,318.96L558.749,385.2"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
-<path d="M472.349,462.96L645.149,462.96L645.149,390.96L472.349,390.96Z"  style="fill:rgb(144,238,144);stroke-width:2.16;stroke:rgb(0,0,0);" />
-<text x="558.749" y="426.96" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Подгруппа 2nПетров В.С.</text>
-<polygon points="126.749,534.96 122.429,523.44 131.069,523.44" style="fill:rgb(0,0,0)"/>
-<path d="M126.749,462.96L126.749,529.2"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
-<path d="M54.7488,592.56L198.749,592.56L198.749,534.96L54.7488,534.96Z"  style="fill:rgb(224,255,255);stroke-width:2.16;stroke:rgb(0,0,0);" />
-<text x="126.749" y="563.76" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Алексеев И.К.</text>
-<polygon points="126.749,664.56 122.429,653.04 131.069,653.04" style="fill:rgb(0,0,0)"/>
-<path d="M126.749,592.56L126.749,658.8"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
-<path d="M54.7488,722.16L198.749,722.16L198.749,664.56L54.7488,664.56Z"  style="fill:rgb(224,255,255);stroke-width:2.16;stroke:rgb(0,0,0);" />
-<text x="126.749" y="693.36" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Борисов Д.М.</text>
-<polygon points="126.749,794.16 122.429,782.64 131.069,782.64" style="fill:rgb(0,0,0)"/>
-<path d="M126.749,722.16L126.749,788.4"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
-<path d="M54.7488,851.76L198.749,851.76L198.749,794.16L54.7488,794.16Z"  style="fill:rgb(224,255,255);stroke-width:2.16;stroke:rgb(0,0,0);" />
-<text x="126.749" y="822.96" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Волкова Е.А.</text>
-<polygon points="558.749,534.96 554.429,523.44 563.069,523.44" style="fill:rgb(0,0,0)"/>
-<path d="M558.749,462.96L558.749,529.2"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
-<path d="M486.749,592.56L630.749,592.56L630.749,534.96L486.749,534.96Z"  style="fill:rgb(224,255,255);stroke-width:2.16;stroke:rgb(0,0,0);" />
-<text x="558.749" y="563.76" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Григорьев К.Л.</text>
-<polygon points="558.749,664.56 554.429,653.04 563.069,653.04" style="fill:rgb(0,0,0)"/>
-<path d="M558.749,592.56L558.749,658.8"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
-<path d="M486.749,722.16L630.749,722.16L630.749,664.56L486.749,664.56Z"  style="fill:rgb(224,255,255);stroke-width:2.16;stroke:rgb(0,0,0);" />
-<text x="558.749" y="693.36" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Дмитриев О.П.</text>
-<polygon points="558.749,794.16 554.429,782.64 563.069,782.64" style="fill:rgb(0,0,0)"/>
-<path d="M558.749,722.16L558.749,788.4"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
-<path d="M486.749,851.76L630.749,851.76L630.749,794.16L486.749,794.16Z"  style="fill:rgb(224,255,255);stroke-width:2.16;stroke:rgb(0,0,0);" />
-<text x="558.749" y="822.96" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Егорова С.В.</text>
+<svg xmlns='http://www.w3.org/2000/svg' style='font-size:initial;' class="pikchr" viewBox="0 0 674.323 853.92" data-pikchr-date="20250321215505">
+<path d="M196.042,102.96L484.042,102.96L484.042,2.16L196.042,2.16Z"  style="fill:rgb(255,255,224);stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="340.042" y="52.56" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Учебная группа Б22-525</text>
+<polygon points="340.042,174.96 335.722,163.44 344.362,163.44" style="fill:rgb(0,0,0)"/>
+<path d="M340.042,102.96L340.042,169.2"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M232.042,246.96L448.042,246.96L448.042,174.96L232.042,174.96Z"  style="fill:rgb(173,216,230);stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="340.042" y="210.96" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Староста Иванов А.В.</text>
+<polygon points="340.042,318.96 335.722,307.44 344.362,307.44" style="fill:rgb(0,0,0)"/>
+<path d="M340.042,246.96L340.042,313.2"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M340.042,318.96L124.042,318.96"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M340.042,318.96L556.042,318.96"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<polygon points="124.042,390.96 119.722,379.44 128.362,379.44" style="fill:rgb(0,0,0)"/>
+<path d="M124.042,318.96L124.042,385.2"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M37.6416,462.96L210.442,462.96L210.442,390.96L37.6416,390.96Z"  style="fill:rgb(144,238,144);stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="124.042" y="426.96" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Подгруппа 1 Сидоров П.А.</text>
+<polygon points="556.042,390.96 551.722,379.44 560.362,379.44" style="fill:rgb(0,0,0)"/>
+<path d="M556.042,318.96L556.042,385.2"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M469.642,462.96L642.442,462.96L642.442,390.96L469.642,390.96Z"  style="fill:rgb(144,238,144);stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="556.042" y="426.96" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Подгруппа 2 Петров В.С.</text>
+<polygon points="124.042,534.96 119.722,523.44 128.362,523.44" style="fill:rgb(0,0,0)"/>
+<path d="M124.042,462.96L124.042,529.2"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M52.0416,592.56L196.042,592.56L196.042,534.96L52.0416,534.96Z"  style="fill:rgb(224,255,255);stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="124.042" y="563.76" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Алексеев И.К.</text>
+<polygon points="124.042,664.56 119.722,653.04 128.362,653.04" style="fill:rgb(0,0,0)"/>
+<path d="M124.042,592.56L124.042,658.8"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M52.0416,722.16L196.042,722.16L196.042,664.56L52.0416,664.56Z"  style="fill:rgb(224,255,255);stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="124.042" y="693.36" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Борисов Д.М.</text>
+<polygon points="124.042,794.16 119.722,782.64 128.362,782.64" style="fill:rgb(0,0,0)"/>
+<path d="M124.042,722.16L124.042,788.4"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M52.0416,851.76L196.042,851.76L196.042,794.16L52.0416,794.16Z"  style="fill:rgb(224,255,255);stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="124.042" y="822.96" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Волкова Е.А.</text>
+<polygon points="556.042,534.96 551.722,523.44 560.362,523.44" style="fill:rgb(0,0,0)"/>
+<path d="M556.042,462.96L556.042,529.2"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M484.042,592.56L628.042,592.56L628.042,534.96L484.042,534.96Z"  style="fill:rgb(224,255,255);stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="556.042" y="563.76" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Григорьев К.Л.</text>
+<polygon points="556.042,664.56 551.722,653.04 560.362,653.04" style="fill:rgb(0,0,0)"/>
+<path d="M556.042,592.56L556.042,658.8"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M484.042,722.16L628.042,722.16L628.042,664.56L484.042,664.56Z"  style="fill:rgb(224,255,255);stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="556.042" y="693.36" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Дмитриев О.П.</text>
+<polygon points="556.042,794.16 551.722,782.64 560.362,782.64" style="fill:rgb(0,0,0)"/>
+<path d="M556.042,722.16L556.042,788.4"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M484.042,851.76L628.042,851.76L628.042,794.16L484.042,794.16Z"  style="fill:rgb(224,255,255);stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="556.042" y="822.96" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Егорова С.В.</text>
 </svg>
+
