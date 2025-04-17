@@ -16,7 +16,7 @@ int main() {
     
     # Староста
     arrow down from Group.s
-    Monitor: box width 1.5in height 0.5in "Староста\nИванов А.В." fill lightblue
+    Monitor: box width 1.5in height 0.5in "Староста Иванов А.В." fill lightblue
     
     # Горизонтальная линия под старостой
     arrow down from Monitor.s
@@ -29,12 +29,12 @@ int main() {
     # Подгруппа 1 - левая ветвь
     SG1_start: dot invisible at (Node.x - 1.5in, Node.y)
     arrow down from SG1_start
-    Subgroup1: box width 1.2in height 0.5in "Подгруппа 1\nСидоров П.А." fill lightgreen
+    Subgroup1: box width 1.2in height 0.5in "Подгруппа 1 Сидоров П.А." fill lightgreen
     
     # Подгруппа 2 - правая ветвь
     SG2_start: dot invisible at (Node.x + 1.5in, Node.y)
     arrow down from SG2_start
-    Subgroup2: box width 1.2in height 0.5in "Подгруппа 2\nПетров В.С." fill lightgreen
+    Subgroup2: box width 1.2in height 0.5in "Подгруппа 2 Петров В.С." fill lightgreen
     
     # Студенты подгруппы 1
     arrow down from Subgroup1.s
